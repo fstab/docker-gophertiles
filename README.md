@@ -2,7 +2,7 @@ docker-gophertiles
 ==================
 
 This is a copy of the demo on [https://http2.golang.org](https://http2.golang.org).
-It can be used for showing the demo without a network connection.
+It can be used for showing the demo locally without a network connection.
 
 *WARNING:* _The docker host's IP address is hard-coded: [192.168.99.100](https://192.168.99.100:4430). If your docker host has another address, change it in the `Dockerfile` and re-build the image._
 
